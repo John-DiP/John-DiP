@@ -4,6 +4,7 @@ My name is John
 
 Currently a CS Student in College
 
+Note: I will be alot more active on ths account
 <!--
 **John-DiP/John-DiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
