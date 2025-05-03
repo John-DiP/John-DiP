@@ -2,7 +2,7 @@
 
 My name is John
 
-Currently a CS Student in College
+Currently a CS Student in College with a physics minor
 
 
 <!--
