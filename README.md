@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-
-
 Currently a CS Student in College with a physics minor
 
+Goals: ...
 
 <!--
 **John-DiP/John-DiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
