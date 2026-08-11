@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently a CS Student in College with a physics minor
+Currently a CS Student in College with a physics/math minor
 
 Goals: ...
 
